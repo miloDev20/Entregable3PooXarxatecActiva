@@ -1,0 +1,25 @@
+{
+  "name": "hoja_poo_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloDev20/Entregable3PooXarxatecActiva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miloDev20/Entregable3PooXarxatecActiva/issues"
+  },
+  "homepage": "https://github.com/miloDev20/Entregable3PooXarxatecActiva#readme"
+}
