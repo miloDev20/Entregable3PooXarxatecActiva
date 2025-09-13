@@ -2,7 +2,7 @@ export class Disco {
     #nombre;
     #capacidad;
     #tipoDeDisco;
-    constructor(nuevoNombre, nuevaCapacidad, nuevoTipo) {
+    super(nuevoNombre, nuevaCapacidad, nuevoTipo) {
         this.#nombre = nuevoNombre;
         this.#capacidad = nuevaCapacidad;
         this.#tipoDeDisco = nuevoTipo;

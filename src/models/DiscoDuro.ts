@@ -1,4 +1,4 @@
-// src/models/DiscoDuro.ts
+
 import {Disco} from "./Disco.js";
 
 export class DiscoDuro extends Disco {

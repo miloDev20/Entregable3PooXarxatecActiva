@@ -3,7 +3,7 @@ import { Disco } from "./Disco.js";
 export class DiscoDuro extends Disco {
     contenido;
     constructor(nombre, capacidad, tipo) {
-        super(nombre, capacidad, tipo);
+        super();
     }
     girarDisco() {
         console.log("Disco duro girando...");

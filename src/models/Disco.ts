@@ -1,4 +1,6 @@
-export abstract class Disco {
+import { IAlmacenamiento } from "../Interfaces/IAlmacenamiento.js";
+
+export abstract class Disco implements IAlmacenamiento{
     #nombre: string
     #capacidad: string
     #tipoDeDisco: string
